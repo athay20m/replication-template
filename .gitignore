@@ -16,5 +16,6 @@ vignettes/*.pdf
 # Dropbox
 .DS_Store
 
-
+#Ignore Solutions
+*hangry.R
 
